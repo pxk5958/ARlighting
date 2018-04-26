@@ -11,7 +11,10 @@ Video capture of the results can be viewed at https://youtu.be/hq19jfP8FNo .
 ## Author
 
 Pratith Kanagaraj (pxk5958@rit.edu)
+
 Department of Computer Science
-Golisano College of Computing and Information Sciences 
+
+Golisano College of Computing and Information Sciences
+
 Rochester Institute of Technology
 
