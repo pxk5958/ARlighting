@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARLighting", "ARLighting.csproj", "{16BED30A-421C-4F3A-91C2-0625AF738F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARLighting.Editor", "ARLighting.Editor.csproj", "{6C88FD7B-20D1-4AB2-A80B-97420B3DBB5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16BED30A-421C-4F3A-91C2-0625AF738F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BED30A-421C-4F3A-91C2-0625AF738F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BED30A-421C-4F3A-91C2-0625AF738F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BED30A-421C-4F3A-91C2-0625AF738F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C88FD7B-20D1-4AB2-A80B-97420B3DBB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C88FD7B-20D1-4AB2-A80B-97420B3DBB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C88FD7B-20D1-4AB2-A80B-97420B3DBB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C88FD7B-20D1-4AB2-A80B-97420B3DBB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
